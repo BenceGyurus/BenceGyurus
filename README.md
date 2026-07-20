@@ -32,14 +32,14 @@ An experimental AI platform where I'm exploring:
 * Autonomous workflows
 * Local AI
 
----
-
 ## 💻 Tech
 
 ### Languages
 
 [Python](https://www.python.org/) •
 [TypeScript](https://www.typescriptlang.org/) •
+[React](https://react.dev/) •
+[Next.js](https://nextjs.org/) •
 [C](https://en.wikipedia.org/wiki/C_%28programming_language%29) •
 [C++](https://isocpp.org/) •
 [Go](https://go.dev/)
@@ -62,8 +62,6 @@ An experimental AI platform where I'm exploring:
 [Git](https://git-scm.com/) •
 [GitHub Actions](https://github.com/features/actions)
 
----
-
 ## 🌱 Interests
 
 * 🏠 Self-hosting & Homelab
@@ -75,16 +73,18 @@ An experimental AI platform where I'm exploring:
 * 🔓 Open Source
 * ⚙️ Systems Programming
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenceGyurus&show_icons=true&hide_border=true rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenceGyurus&layout=compact&hide_border=true">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=BenceGyurus&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenceGyurus&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
-
----
 
 ## 📫 Get in Touch
 
