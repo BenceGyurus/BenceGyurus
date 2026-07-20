@@ -2,23 +2,35 @@
 
 I'm a Computer Science student from Hungary who enjoys building everything from low-level tools in C/C++ to self-hosted infrastructure and AI applications.
 
-Most of my time is spent experimenting with Linux, NixOS, automation, homelab infrastructure, and AI. I enjoy solving practical problems, learning new technologies, and sharing the projects I build along the way.
+I'm currently building **[irodalomerettsegi.hu](https://irodalomerettsegi.hu)**, an online platform that helps students prepare for the Hungarian literature graduation exam through interactive quizzes, study materials, and customizable mock exams.
+
+Outside of that, I enjoy experimenting with Linux, NixOS, self-hosting, automation, and AI. Whether it's deploying services in my homelab, writing system tools, or exploring new ideas for AI applications, I'm always looking for interesting problems to solve.
 
 ---
 
 ## 🚀 Current Projects
 
-### Hermes
+### 📚 irodalomerettsegi.hu
 
-An experimental AI platform where I'm exploring ideas around:
+An online platform for preparing for the Hungarian literature graduation exam.
+
+Features include:
+
+* Interactive quizzes
+* Study materials
+* Customizable mock exams
+* AI-assisted learning features
+* Continuous improvements based on student feedback
+
+### 🤖 Hermes
+
+An experimental AI platform where I'm exploring:
 
 * Agent systems
 * Memory architectures
 * Tool integration
 * Autonomous workflows
 * Local AI
-
-Alongside Hermes, I'm constantly improving my homelab and experimenting with self-hosted services, automation, and infrastructure.
 
 ---
 
@@ -61,21 +73,21 @@ Alongside Hermes, I'm constantly improving my homelab and experimenting with sel
 * 🌐 Networking
 * 📦 Infrastructure as Code
 * 🔓 Open Source
+* ⚙️ Systems Programming
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenceGyurus&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenceGyurus&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenceGyurus&show_icons=true&hide_border=true rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenceGyurus&layout=compact&hide_border=true">
 </p>
 
 ---
 
-## 📫 Connect
+## 📫 Get in Touch
 
-Feel free to explore my repositories or reach out if you want to discuss self-hosting, AI, NixOS, or open-source software.
+Feel free to explore my repositories or reach out if you'd like to discuss self-hosting, Linux, NixOS, AI, or open-source software.
 
-Always learning, always building.
-
+I'm always happy to learn from others, share ideas, and collaborate on interesting projects.
