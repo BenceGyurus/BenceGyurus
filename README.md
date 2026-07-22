@@ -1,6 +1,6 @@
 # Hi, I'm Bence 👋
 
-I'm a Computer Science student from Hungary who enjoys building everything from low-level tools in C/C++ to self-hosted infrastructure and AI applications.
+I'm a Computer engineer student from Hungary who enjoys building everything from low-level tools in C/C++ to self-hosted infrastructure and AI applications.
 
 I'm currently building **[irodalomerettsegi.hu](https://irodalomerettsegi.hu)**, an online platform that helps students prepare for the Hungarian literature graduation exam through interactive quizzes, study materials, and customizable mock exams.
 
