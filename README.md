@@ -9,13 +9,11 @@ I co-founded [matekx.hu](https://matekx.hu) and [irodalomerettsegi.hu](https://i
 - [matekx.hu](https://matekx.hu): a maths practice platform. I work on the frontend, the exercise-generation backend, and the hosting infrastructure.
 - [irodalomerettsegi.hu](https://irodalomerettsegi.hu): a literature exam preparation site used by tens of thousands of Hungarian students. My work covers frontend development and infrastructure.
 - [HomeLab](https://github.com/BenceGyurus/Homelab) / [Talos](https://github.com/BenceGyurus/talos): my self-hosted services and Kubernetes setup. I use Terraform and Ansible for configuration, GitOps for deployments, and Prometheus and Grafana for monitoring.
-- [Solaris](https://github.com/BenceGyurus/SYNOPTIQ): local monitoring for Solplanet solar inverters, with production history, a bilingual web interface, and a Prometheus exporter.
 
 I also keep a [network sandbox](https://github.com/BenceGyurus/network-sandbox) for experimenting with routing, including a containerised OSPF lab.
 
 ## AI projects
 
-- [agents-wrapper](https://github.com/BenceGyurus/agents-wrapper): an Ollama-compatible API gateway for coding agents, with streaming responses and middleware for request handling and audit logging.
 - [music-suggester](https://github.com/BenceGyurus/music-suggester): a self-hosted music recommendation app that uses LLMs and listening history from Navidrome.
 - [motherboard-anomaly-detector](https://github.com/BenceGyurus/motherboard-anomaly-detector): an experimental visual inspection pipeline for motherboard damage, combining local anomaly detection with a vision-language model to check suspicious regions.
 
