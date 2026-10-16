@@ -34,19 +34,19 @@ I've also worked as a system administrator at Szombathelyi Televízió since 202
 
 ## GitHub activity
 
-<!-- github-stats:start -->
-| Metric | Count |
-| --- | ---: |
-| Contributions in the past 365 days | 2,387 |
-| Public repositories I own (excluding forks) | 24 |
-| Stars on those repositories | 1 |
-| Followers | 4 |
+<a href="https://github.com/BenceGyurus?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=BenceGyurus&amp;show_icons=true&amp;hide_rank=true&amp;theme=dark_github&amp;hide_border=true&amp;card_width=440&amp;number_format=long" />
+    <img height="180" alt="Bence's GitHub stats: public commits, pull requests, issues and stars" src="https://github-stats-extended.vercel.app/api?username=BenceGyurus&amp;show_icons=true&amp;hide_rank=true&amp;theme=light_github&amp;hide_border=true&amp;card_width=440&amp;number_format=long" />
+  </picture>
+</a>
+<a href="https://github.com/BenceGyurus?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=BenceGyurus&amp;layout=compact&amp;langs_count=6&amp;theme=dark_github&amp;hide_border=true&amp;card_width=320" />
+    <img height="180" alt="Most used languages in Bence's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BenceGyurus&amp;layout=compact&amp;langs_count=6&amp;theme=light_github&amp;hide_border=true&amp;card_width=320" />
+  </picture>
+</a>
 
-Updated 2026-10-16 15:09 UTC from the GitHub API. Contribution window: 2025-10-16 to 2026-10-16.
-
-Contributions follow GitHub's calendar rules, including anonymised private activity where available; they are not a total commit count. Repository and star counts include archived repositories and exclude forks, private repositories, and organisation-owned projects.
-
-[Contribution history](https://github.com/BenceGyurus?tab=overview) · [How GitHub counts contributions](https://docs.github.com/en/account-and-profile/how-tos/contribution-settings)
-<!-- github-stats:end -->
+<sub>Public GitHub activity. Language percentages reflect repository code, not time spent.</sub>
 
 [Portfolio](https://bence.gyurus.hu) · [GitHub repositories](https://github.com/BenceGyurus?tab=repositories)
