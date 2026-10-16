@@ -1,93 +1,54 @@
-# Hi, I'm Bence 👋
+# Hi, I'm Bence
 
-I'm a Computer engineer student from Hungary who enjoys building everything from low-level tools in C/C++ to self-hosted infrastructure and AI applications.
+I'm a third-year Computer Engineering BSc student at the Budapest University of Technology and Economics (BME). I work on web applications and the infrastructure behind them, with a particular interest in DevOps, networking, and AI agent systems.
 
-I'm currently building **[irodalomerettsegi.hu](https://irodalomerettsegi.hu)**, an online platform that helps students prepare for the Hungarian literature graduation exam through interactive quizzes, study materials, and customizable mock exams.
+## What I'm working on
 
-Outside of that, I enjoy experimenting with Linux, NixOS, self-hosting, automation, and AI. Whether it's deploying services in my homelab, writing system tools, or exploring new ideas for AI applications, I'm always looking for interesting problems to solve.
+I co-founded [matekx.hu](https://matekx.hu) and [irodalomerettsegi.hu](https://irodalomerettsegi.hu) with a friend. We host both on a three-node Proxmox cluster that we built and maintain ourselves.
 
----
+- [matekx.hu](https://matekx.hu): a maths practice platform. I work on the frontend, the exercise-generation backend, and the hosting infrastructure.
+- [irodalomerettsegi.hu](https://irodalomerettsegi.hu): a literature exam preparation site used by tens of thousands of Hungarian students. My work covers frontend development and infrastructure.
+- [HomeLab](https://github.com/BenceGyurus/Homelab) / [Talos](https://github.com/BenceGyurus/talos): my self-hosted services and Kubernetes setup. I use Terraform and Ansible for configuration, GitOps for deployments, and Prometheus and Grafana for monitoring.
+- [Solaris](https://github.com/BenceGyurus/SYNOPTIQ): local monitoring for Solplanet solar inverters, with production history, a bilingual web interface, and a Prometheus exporter.
 
-## 🚀 Current Projects
+I also keep a [network sandbox](https://github.com/BenceGyurus/network-sandbox) for experimenting with routing, including a containerised OSPF lab.
 
-### 📚 irodalomerettsegi.hu
+## AI projects
 
-An online platform for preparing for the Hungarian literature graduation exam.
+- [agents-wrapper](https://github.com/BenceGyurus/agents-wrapper): an Ollama-compatible API gateway for coding agents, with streaming responses and middleware for request handling and audit logging.
+- [music-suggester](https://github.com/BenceGyurus/music-suggester): a self-hosted music recommendation app that uses LLMs and listening history from Navidrome.
+- [motherboard-anomaly-detector](https://github.com/BenceGyurus/motherboard-anomaly-detector): an experimental visual inspection pipeline for motherboard damage, combining local anomaly detection with a vision-language model to check suspicious regions.
 
-Features include:
+## Experience
 
-* Interactive quizzes
-* Study materials
-* Customizable mock exams
-* AI-assisted learning features
-* Continuous improvements based on student feedback
+At [KSZK](https://kszk.bme.hu/), the Schönherz student IT group, I'm an assistant administrator for Harbor and SupportSCH. I help update and maintain services used by the dormitory community.
 
-### 🤖 Hermes
+I've also worked as a system administrator at Szombathelyi Televízió since 2022, maintaining the CMS and NAS, managing backups, and preparing reports from logs.
 
-An experimental AI platform where I'm exploring:
+## Tools I use
 
-* Agent systems
-* Memory architectures
-* Tool integration
-* Autonomous workflows
-* Local AI
+| Area | Tools |
+| --- | --- |
+| Development | Python, TypeScript, React, Next.js, C/C++, Go |
+| Infrastructure | Linux, Proxmox VE, Docker, Kubernetes, Talos Linux, NixOS |
+| Automation & monitoring | Terraform, Ansible, GitOps, GitHub Actions, Prometheus, Grafana |
+| Data | PostgreSQL, Redis |
 
-## 💻 Tech
+## GitHub activity
 
-### Languages
+<!-- github-stats:start -->
+| Metric | Count |
+| --- | ---: |
+| Contributions in the past 365 days | 2,387 |
+| Public repositories I own (excluding forks) | 24 |
+| Stars on those repositories | 1 |
+| Followers | 4 |
 
-[Python](https://www.python.org/) •
-[TypeScript](https://www.typescriptlang.org/) •
-[React](https://react.dev/) •
-[Next.js](https://nextjs.org/) •
-[C](https://en.wikipedia.org/wiki/C_%28programming_language%29) •
-[C++](https://isocpp.org/) •
-[Go](https://go.dev/)
+Updated 2026-10-16 15:07 UTC from the GitHub API. Contribution window: 2025-10-16 to 2026-10-16.
 
-### Operating Systems & Infrastructure
+Contributions follow GitHub's calendar rules, including anonymised private activity where available; they are not a total commit count. Repository and star counts include archived repositories and exclude forks, private repositories, and organisation-owned projects.
 
-[NixOS](https://nixos.org/) •
-[Linux](https://kernel.org/) •
-[Docker](https://www.docker.com/) •
-[Terraform](https://www.terraform.io/) •
-[Ansible](https://www.ansible.com/)
+[Contribution history](https://github.com/BenceGyurus?tab=overview) · [How GitHub counts contributions](https://docs.github.com/en/account-and-profile/how-tos/contribution-settings)
+<!-- github-stats:end -->
 
-### Databases
-
-[PostgreSQL](https://www.postgresql.org/) •
-[Redis](https://redis.io/)
-
-### Development Tools
-
-[Git](https://git-scm.com/) •
-[GitHub Actions](https://github.com/features/actions)
-
-## 🌱 Interests
-
-* 🏠 Self-hosting & Homelab
-* 🤖 AI & Agent Systems
-* ❄️ NixOS
-* 🛠 Automation
-* 🌐 Networking
-* 📦 Infrastructure as Code
-* 🔓 Open Source
-* ⚙️ Systems Programming
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=BenceGyurus&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenceGyurus&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
-## 📫 Get in Touch
-
-Feel free to explore my repositories or reach out if you'd like to discuss self-hosting, Linux, NixOS, AI, or open-source software.
-
-I'm always happy to learn from others, share ideas, and collaborate on interesting projects.
+[Portfolio](https://bence.gyurus.hu) · [GitHub repositories](https://github.com/BenceGyurus?tab=repositories)
